@@ -1,7 +1,19 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.0",
   "download_url": "",
-  "sha256": "",
-  "published_at": "",
-  "notes": ""
+  "sha256": "f25350616ce4f3e938de127a7fce263fcaa049ddd486dca473346500c28b87be",
+  "notes": "v1.0.0 正式发布：您的本地声音克隆工作室",
+  "published_at": "2026-09-15T18:24:45Z",
+  "parts": [
+    {
+      "url": "https://github.com/StarAI-2026/starttts-releases/releases/download/v1.0.0/StarTTS_v1.0.0_windows_amd64.zip.z01",
+      "sha256": "a37a39f8c578cf31ce4eeb0b34fbae7b21d9095ee7b68e2e87c8837e5996aeb8",
+      "size": 1992294400
+    },
+    {
+      "url": "https://github.com/StarAI-2026/starttts-releases/releases/download/v1.0.0/StarTTS_v1.0.0_windows_amd64.zip.z02",
+      "sha256": "254810ee181f02d9057f0c2c3a8fd5cf4a1ba7496c49f5278e7e88d3b7ea374d",
+      "size": 1009359153
+    }
+  ]
 }
